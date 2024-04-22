@@ -6,6 +6,7 @@ This is when the App starts
 ![Screenshot (518)](https://github.com/lakhanpalore/Fridge_Buddy/assets/51815393/bf36fa45-e157-4ca9-9beb-00443397f30d)
 This Screenshot shows if the user had entered correct name/ date / location.
 ![Screenshot (521)](https://github.com/lakhanpalore/Fridge_Buddy/assets/51815393/c8c02958-38f9-4834-802c-da980f8de1a5)
-This Screenshot shows if the user had entered correct name/ date / location.
-![Screenshot (520)](https://github.com/lakhanpalore/Fridge_Buddy/assets/51815393/ba88c9e9-da37-4d71-80f2-bb81578a4308)
 This Screenshot shows if the Item in the fridge is about to expire.
+![Screenshot (520)](https://github.com/lakhanpalore/Fridge_Buddy/assets/51815393/ba88c9e9-da37-4d71-80f2-bb81578a4308)
+This Screenshot shows if the user had entered correct name/ date / location.
+
